@@ -1,0 +1,117 @@
+PRODUCTS_BY_MAKER = {
+    "morinaga": [
+        {
+            "id": 1,
+            "name": "チョコボール",
+            "maker": "森永",
+            "category": "チョコレート",
+            "price": 120,
+        },
+        {
+            "id": 2,
+            "name": "ハイチュウ",
+            "maker": "森永",
+            "category": "キャンディ",
+            "price": 110,
+        },
+        {
+            "id": 3,
+            "name": "ムーンライトクッキー",
+            "maker": "森永",
+            "category": "クッキー",
+            "price": 180,
+        },
+    ],
+    "glico": [
+        {
+            "id": 4,
+            "name": "ポッキー",
+            "maker": "グリコ",
+            "category": "チョコレート菓子",
+            "price": 150,
+        },
+        {
+            "id": 5,
+            "name": "プリッツ",
+            "maker": "グリコ",
+            "category": "スナック",
+            "price": 130,
+        },
+        {
+            "id": 6,
+            "name": "ビスコ",
+            "maker": "グリコ",
+            "category": "ビスケット",
+            "price": 100,
+        },
+    ],
+    "meiji": [
+        {
+            "id": 7,
+            "name": "アーモンドチョコレート",
+            "maker": "明治",
+            "category": "チョコレート",
+            "price": 200,
+        },
+        {
+            "id": 8,
+            "name": "果汁グミ",
+            "maker": "明治",
+            "category": "グミ",
+            "price": 120,
+        },
+        {
+            "id": 9,
+            "name": "ミルクチョコレート",
+            "maker": "明治",
+            "category": "チョコレート",
+            "price": 110,
+        },
+    ],
+    "lotte": [
+        {
+            "id": 10,
+            "name": "コアラのマーチ",
+            "maker": "ロッテ",
+            "category": "ビスケット",
+            "price": 130,
+        },
+        {
+            "id": 11,
+            "name": "ガーナミルクチョコレート",
+            "maker": "ロッテ",
+            "category": "チョコレート",
+            "price": 120,
+        },
+        {
+            "id": 12,
+            "name": "パイの実",
+            "maker": "ロッテ",
+            "category": "パイ菓子",
+            "price": 150,
+        },
+    ],
+    "calbee": [
+        {
+            "id": 13,
+            "name": "ポテトチップス",
+            "maker": "カルビー",
+            "category": "スナック",
+            "price": 150,
+        },
+        {
+            "id": 14,
+            "name": "じゃがりこ",
+            "maker": "カルビー",
+            "category": "スナック",
+            "price": 130,
+        },
+        {
+            "id": 15,
+            "name": "サッポロポテト",
+            "maker": "カルビー",
+            "category": "スナック",
+            "price": 120,
+        },
+    ],
+}
